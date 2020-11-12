@@ -1,2 +1,2 @@
-# shobnil-s-repository
-This is my first project
+# Alien-Invasion or Shooter Full Game
+This is the full game of alien invasion or shooter with a scoreboard file... All file is included here...
